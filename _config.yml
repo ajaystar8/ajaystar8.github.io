@@ -21,7 +21,7 @@ repository: "ajaystar8/ajaystar8.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar: "ajay_profile_circle.png"
+  avatar: "profile_2.png"
   name: "Ajay Rajendra Kumar"
   pronouns: # example: "she/her"
   bio: "Curious about Deep Learning!"
