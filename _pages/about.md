@@ -7,6 +7,10 @@ redirect_from:
   - /about.html
 ---
 
+### Website is under construction ⚒️
+
+I'm a final year B.Tech. CSE student at Manipal Institute of Technology, Manipal specialising in Computational Intelligence. 
+
 👨🏽‍💻 I'm a final year undergraduate student at Manipal Institute of Technology, Manipal.
 
 🔬 My research interests is in Deep Learning, specifically Computer Vision and Natural Language Processing.
