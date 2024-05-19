@@ -1,6 +1,6 @@
 ---
 title: "Implementation of PDR-UNet for Image Segmentation"
-excerpt: "Used PyTorch for implementation, Weights and Bias for experiment tracking and reproduced results using the MURA bone dataset.<br/><img src='/images/pdru.jpg'>"
+excerpt: "Used PyTorch for implementation, Weights and Bias for experiment tracking and reproduced results using the MURA bone dataset.<br/><img src='/images/pdru_poster.jpg'>"
 collection: portfolio
 ---
 
