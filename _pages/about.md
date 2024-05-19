@@ -22,4 +22,3 @@ I am also in search for open-source projects where I can start my open-source co
 ## News
 
 ⏳ Loading... ⌛️
-ṡ
