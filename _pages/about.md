@@ -19,4 +19,6 @@ My research interests lie in the area of Deep Learning, specifically Computer Vi
 
 I am also in search for open-source projects where I can start my open-source contribution journey. If you have interesting ideas brewing in your mind, please ping me. I would love to collaborate and work on those projects together.   
 
+## News
 
+⏳ Loading... ⌛️
