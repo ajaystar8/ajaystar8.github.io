@@ -1,6 +1,6 @@
 ---
-title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+title: "Implementation of PDR-UNet for Image Segmentation"
+excerpt: "Used PyTorch for implementation, Weights and Bias for experiment tracking and reproduced results using the MURA bone dataset.<br/><img src='/images/pdru.jpg'>"
 collection: portfolio
 ---
 
