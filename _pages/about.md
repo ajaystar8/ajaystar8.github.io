@@ -27,7 +27,7 @@ Updates brewing 🍺
 
 ### 2024
 
-- ***ICMLDE 2024*** [First Conference Paper!] 
+- ***ICMLDE 2023*** [First Conference Paper!] 
   - [Addressing Vaccine Misinformation on Social Media by leveraging Transformers and User Association Dynamics](https://www.sciencedirect.com/science/article/pii/S1877050924008470) - [[GitHub]](https://github.com/ajaystar8/Vaccine_Misinformation_Project.git)
   - Chirag Rao, Gautham Manuru Prabhu, Ajay Rajendra Kumar, Shourya Gupta, Nisha P Shetty
   
