@@ -19,8 +19,15 @@ My research interests lie in the area of Deep Learning, specifically Computer Vi
 
 I am also in search for open-source projects where I can start my open-source contribution journey. If you have interesting ideas brewing in your mind, please ping me. I would love to collaborate and work on those projects together.   
 
-## News
+## Recent Updates
 
-⏳ Loading... ⌛️
+Updates brewing 🍺
 
-_Website is under construction ⚒️_
+## Publications
+
+### 2024
+
+- ***ICMLDE 2024*** [First Conference Paper!] 
+  - [Addressing Vaccine Misinformation on Social Media by leveraging Transformers and User Association Dynamics](https://www.sciencedirect.com/science/article/pii/S1877050924008470) - [[GitHub]](https://github.com/ajaystar8/Vaccine_Misinformation_Project.git)
+  - Chirag Rao, Gautham Manuru Prabhu, Ajay Rajendra Kumar, Shourya Gupta, Nisha P Shetty
+  
