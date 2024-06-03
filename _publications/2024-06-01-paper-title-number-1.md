@@ -1,7 +1,7 @@
 ---
 title: "Addressing Vaccine Misinformation on Social Media by leveraging Transformers and User Association Dynamics"
 collection: publications
-permalink: /publication/2009-10-01-paper-title-number-1
+permalink: /publication/2024-06-01-paper-title-number-1
 excerpt: 'Implemented and trained BERT & XLNet to classify misinformation on custom datasets scraped from
 Twitter and Reddit. Fine tuned the architectures to obtain a F1-Score of 0.92 for BERT & 0.93 for XLNet. Implemented a user association mapping algorithm based on cosine similarity to identify dense conversation clusters, analyze conversations and flag suspicious users. 
 
