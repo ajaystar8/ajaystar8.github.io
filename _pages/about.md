@@ -9,25 +9,33 @@ redirect_from:
 
 ## About Me
 
-I am a final year B.Tech. CSE student at Manipal Institute of Technology, Manipal with a specialisation in Computational Intelligence.
+Hello! I am a first-year MSCS student at Northeastern University, Boston, specializing in Machine Learning. I'm currently in my first semester, during which I have enrolled in the courses of Programming Design Paradigms and Computer Vision. 
 
-I am fortunate to be conducting my Bachelor's thesis at the School of Medical Science and Technology Lab (SMST) at Indian Institute of Technology, Kharagpur under the guidance of [Prof. Subhamoy Mandal](https://www.iitkgp.ac.in/department/MM/faculty/mm-smandal). Here, I have been working in the area of semantic image segmentation.  
 
-Simultaneously, I am also grateful to be working as a Research Assistant under the mentorship of [Prof. Sanjay Singh](https://scholar.google.co.in/citations?user=VBj6NyUAAAAJ&hl=en) in the domain of Responsible-AI. 
+I completed my Bachelor's degree in Computer Science (B.Tech. CSE) from Manipal Institute of Technology, Manipal, India in 2024. I was fortunate enough to have conducted research under the guidance of [Dr. Nisha P Shetty](https://scholar.google.com/citations?user=o4fHE34AAAAJ), [Dr. Sanjay Singh](https://scholar.google.com/citations?user=VBj6NyUAAAAJ&hl=en) and [Dr. Srikanth Prabhu](https://scholar.google.co.in/citations?user=iNwLHREAAAAJ&hl=en). 
 
-My research interests lie in the area of Deep Learning, specifically Computer Vision and Natural Language Processing. I have also been experimenting with Vision Language Models and working on personal projects in this area.  
+I am fortunate to have conducting my Bachelor's thesis at the School of Medical Science and Technology Lab (SMST) at
+Indian Institute of Technology, Kharagpur under the guidance
+of [Prof. Subhamoy Mandal](https://www.iitkgp.ac.in/department/MM/faculty/mm-smandal). Here, I worked in the
+area of semantic image segmentation in X-ray images. 
 
-I am also in search for open-source projects where I can start my open-source contribution journey. If you have interesting ideas brewing in your mind, please ping me. I would love to collaborate and work on those projects together.   
+My research interests lie in the area of Deep Learning, specifically Image Processing and Computer Vision. I
+have also been experimenting with Natural Language Processing and working towards building my experience in this domain. 
+
+In my free time, I am in search for open-source projects where I can start my open-source contribution journey. If you have
+interesting ideas brewing in your mind, please ping me. I would love to collaborate and work together.
 
 ## Recent Updates
 
-Updates brewing 🍺
+[🌟 - Major Update | 💡- Research Paper | 📝 - Blog Post | 📌 - Miscellaneous]
+
+- 🌟 Sept 4, 2024: I will be joining Northeastern University for pursuing my Masters in Computer Science.
 
 ## Publications
 
 ### 2024
 
-- ***ICMLDE 2023*** [First Conference Paper!] 
-  - [Addressing Vaccine Misinformation on Social Media by leveraging Transformers and User Association Dynamics](https://www.sciencedirect.com/science/article/pii/S1877050924008470) - [[GitHub]](https://github.com/ajaystar8/Vaccine_Misinformation_Project.git)
-  - Chirag Rao, Gautham Manuru Prabhu, Ajay Rajendra Kumar, Shourya Gupta, Nisha P Shetty
+- ***ICMLDE 2023*** [First Conference Paper!]
+    - [Addressing Vaccine Misinformation on Social Media by leveraging Transformers and User Association Dynamics](https://www.sciencedirect.com/science/article/pii/S1877050924008470) - [[GitHub]](https://github.com/ajaystar8/Vaccine_Misinformation_Project.git)
+    - Chirag Rao, Gautham Manuru Prabhu, Ajay Rajendra Kumar, Shourya Gupta, Nisha P Shetty
   
