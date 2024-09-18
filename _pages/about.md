@@ -27,7 +27,7 @@ interesting ideas brewing in your mind, please ping me. I would love to collabor
 
 ## Recent Updates
 
-[🌟 - Major Update | 💡- Research Paper | 📝 - Blog Post | 📌 - Miscellaneous]
+🌟 - Major Update | 💡- Research Paper | 📝 - Blog Post | 📌 - Miscellaneous
 
 - 🌟 Sept 4, 2024: I will be joining Northeastern University for pursuing my Masters in Computer Science.
 
