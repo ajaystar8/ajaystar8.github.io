@@ -12,7 +12,7 @@ redirect_from:
 Hello! I am a first-year MSCS student at Northeastern University, specializing in Machine Learning. I'm currently in my first semester, during which I have enrolled in the courses of Programming Design Paradigms and Computer Vision. 
 
 
-I completed my Bachelor's degree in Computer Science (B.Tech. CSE) from Manipal Institute of Technology, Manipal, India in 2024. I was fortunate enough to have conducted research under the guidance of [Dr. Nisha P Shetty](https://scholar.google.com/citations?user=o4fHE34AAAAJ), [Dr. Sanjay Singh](https://scholar.google.com/citations?user=VBj6NyUAAAAJ&hl=en) and [Dr. Srikanth Prabhu](https://scholar.google.co.in/citations?user=iNwLHREAAAAJ&hl=en). 
+I completed my Bachelor's degree in Computer Science with Minors in Computational Intelligence from Manipal Institute of Technology, Manipal, India in 2024. I was fortunate enough to have conducted research under the guidance of [Dr. Nisha P Shetty](https://scholar.google.com/citations?user=o4fHE34AAAAJ), [Dr. Sanjay Singh](https://scholar.google.com/citations?user=VBj6NyUAAAAJ&hl=en) and [Dr. Srikanth Prabhu](https://scholar.google.co.in/citations?user=iNwLHREAAAAJ&hl=en). 
 
 I am fortunate to have conducting my Bachelor's thesis at the School of Medical Science and Technology Lab (SMST) at
 Indian Institute of Technology, Kharagpur under the guidance
