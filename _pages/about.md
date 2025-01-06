@@ -9,9 +9,7 @@ redirect_from:
 
 ## About Me
 
-Hello! I am a Masters in Computer Science student at **Khoury College, Northeastern University**. I just completed my
-first semester, during which I took the courses of Programming Design Paradigms and Pattern Recognition & Computer
-Vision.
+Hello! I am a Masters in Computer Science student at **Khoury College, Northeastern University**. I am currently in my second semester and have registered for the Deep Learning and Algorithms courses.
 
 I completed my Bachelor's degree in Computer Science with Minors in Computational Intelligence from Manipal Institute of
 Technology, Manipal, India in 2024. I am fortunate to have conducted my Bachelor's thesis at the School of Medical
@@ -29,6 +27,8 @@ with talented teams, and contribute to innovative projects in the AI and compute
 ## Recent Updates
 
 🌟 - Major Update | 💡- Research Paper | 📝 - Blog Post | 📌 - Miscellaneous
+
+- 🌟 Jan 6, 2024: I'm beginning my second semester!
 
 - 🌟 Dec 4, 2024: I completed my first semester at Northeastern!
 
