@@ -28,7 +28,7 @@ with talented teams, and contribute to innovative projects in the AI and compute
 
 🌟 - Major Update | 💡- Research Paper | 📝 - Blog Post | 📌 - Miscellaneous
 
-- 🌟 Jan 6, 2024: I'm beginning my second semester!
+- 🌟 Jan 6, 2025: I'm beginning my second semester!
 
 - 🌟 Dec 4, 2024: I completed my first semester at Northeastern!
 
