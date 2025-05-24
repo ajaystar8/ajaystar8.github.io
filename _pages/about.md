@@ -11,9 +11,9 @@ redirect_from:
 
 Hello! I am a second semester Masters in Computer Science student at **Khoury College, Northeastern University** where I am fortunate to being advised by [Prof. Huaizu Jiang](https://jianghz.me/). 
 
-I am currently working on a collaborative project with MathWorks under the guidance of [Prof. Huaizu Jiang](https://jianghz.me/) and [Dr. Aruni RoyChowdhury](https://arunirc.github.io/about/), focusing on visual odometry and SLAM (Simultaneous Localization and Mapping).
+I am currently working on a collaborative project with MathWorks under the guidance of [Prof. Huaizu Jiang](https://jianghz.me/) and [Dr. Aruni RoyChowdhury](https://arunirc.github.io/about/), focusing on visual odometry and Simultaneous Localization and Mapping (SLAM).
 
-Additionally, I am also working as a research assistant for [Prof. Anna Lamin](https://damore-mckim.northeastern.edu/people/anna-lamin/) and [Prof. Valentina Marano](https://damore-mckim.northeastern.edu/people/valentina-marano/) on a research project to leverage Large Language Models (LLMs) to analyze and extract insights from CSR (Corporate Social Responsibility) activity of Indian companies, helping improve future CSR strategies.
+Additionally, I am also working as a research assistant for [Prof. Anna Lamin](https://damore-mckim.northeastern.edu/people/anna-lamin/) and [Prof. Valentina Marano](https://damore-mckim.northeastern.edu/people/valentina-marano/) on a research project to leverage Large Language Models (LLMs) to analyze and extract insights from Corporate Social Responsibility (CSR) activity of Indian companies, helping improve future CSR strategies.
 
 I completed my Bachelor's degree in Computer Science (Minors in Computational Intelligence) from Manipal Institute of
 Technology, India in 2024. I conducted my Bachelor's thesis at the School of Medical
