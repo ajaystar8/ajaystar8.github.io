@@ -26,7 +26,7 @@ My research interests lie in areas like Computer Vision, SLAM (Simultaneous Loca
 ## Recent Updates
 🌟 - Major Update | 💡- Research Paper | 📌 - Miscellaneous
 
-- 🌟 April 2024: I will be joining as a Research Assistant in the Visual Intelligence Lab at Northeastern University 
+- 🌟 April 2024: I will be joining as a Research Assistant at the Visual Intelligence Lab at Northeastern University 
 
 - 🌟 February 2024: I will be joining as a Research Assistant at the D'Amore-McKim School of Business at Northeastern University 
 
