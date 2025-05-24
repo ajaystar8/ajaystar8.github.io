@@ -15,18 +15,16 @@ I am currently working on a collaborative project with MathWorks under the guida
 
 Additionally, I am also working as a research assistant for [Prof. Anna Lamin](https://damore-mckim.northeastern.edu/people/anna-lamin/) and [Prof. Valentina Marano](https://damore-mckim.northeastern.edu/people/valentina-marano/) on a research project to leverage Large Language Models (LLMs) to analyze and extract insights from CSR activity of Indian companies, helping improve future CSR strategies.
 
-I completed my Bachelor's degree in Computer Science with Minors in Computational Intelligence from Manipal Institute of
-Technology, Manipal, India in 2024. I conducted my Bachelor's thesis at the School of Medical
+I completed my Bachelor's degree in Computer Science (Minors in Computational Intelligence) from Manipal Institute of
+Technology, India in 2024. I conducted my Bachelor's thesis at the School of Medical
 Science and Technology Lab (SMST) at
 Indian Institute of Technology, Kharagpur under the guidance
-of [Prof. Subhamoy Mandal](https://www.iitkgp.ac.in/department/MM/faculty/mm-smandal). Here, I worked in the
-area of semantic image segmentation of the Humerus Bone in X-ray images.
+of [Prof. Subhamoy Mandal](https://www.iitkgp.ac.in/department/MM/faculty/mm-smandal).
 
 My research interests lie in areas like Computer Vision, SLAM (Simultaneous Localization and Mapping), Human Motion Generation and Multimodal Large Language Models (LLMs). 
 
 ## Recent Updates
-
-[🌟 - Major Update | 💡- Research Paper | 📌 - Miscellaneous]
+🌟 - Major Update | 💡- Research Paper | 📌 - Miscellaneous
 
 - 🌟 April 2024: I will be joining as a Research Assistant in the Visual Intelligence Lab at Northeastern University 
 
